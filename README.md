@@ -17,3 +17,6 @@ Cluster Analysis: Use clustering algorithms from scikit-learn to group debtors b
 Determine Better Due Dates: Based on the analysis, suggest better due dates for debtors who frequently pay late.
 
  Data Source --> Jupiter Notebook ---> Flask Server  --> Render to browser 
+
+
+ Youtube Demo :  https://youtu.be/TpJo5Nf_I8I
