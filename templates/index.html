@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supplier Recommendation Status</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+    background-color: #f4f4f9;
+    text-align: center;
+}
+
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.form-container select,
+.form-container input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+.form-container select {
+    background-color: #fff;
+}
+
+.form-container input[type="submit"] {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.form-container input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: #e9f5ff;
+    border-left: 4px solid #007BFF;
+    text-align: left;
+}
+
+.result p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #333;
+}
+
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Check Supplier Recommendation Status</h2>
+        <form id="supplierForm">
+            <select id="supplierName" name="supplierName" required>
+                <option value="">Select a Supplier</option>
+                <!-- Options will be populated by JavaScript -->
+            </select>
+            <input type="submit" value="Check Status">
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        // Sample JSON data (replace this with data fetched from your backend)
+        const supplierData = [
+            { "Customer Name": "Abbott, Dibbert and Prohaska", "suggested_due_date_extension": 40.0 },
+            { "Customer Name": "Abshire-Abbott", "suggested_due_date_extension": 40.0 },
+            { "Customer Name": "Armstrong, Rau and Quigley", "suggested_due_date_extension": 40.0 },
+            { "Customer Name": "Aufderhar-Gaylord", "suggested_due_date_extension": 40.0 },
+            { "Customer Name": "Bartoletti, Ledner and Davis", "suggested_due_date_extension": 40.0 },
+            // Add the rest of your JSON data here
+        ];
+
+        // Populate the dropdown with supplier names
+        const supplierDropdown = document.getElementById('supplierName');
+        supplierData.forEach(supplier => {
+            const option = document.createElement('option');
+            option.value = supplier['Customer Name'];
+            option.textContent = supplier['Customer Name'];
+            supplierDropdown.appendChild(option);
+        });
+
+        // Handle form submission
+        document.getElementById('supplierForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const supplierName = document.getElementById('supplierName').value;
+
+            // Find the selected supplier's data
+            const selectedSupplier = supplierData.find(supplier => supplier['Customer Name'] === supplierName);
+
+            // Display the result
+            const resultDiv = document.getElementById('result');
+            if (selectedSupplier) {
+                resultDiv.innerHTML = `
+                    <p><strong>Supplier Name:</strong> ${selectedSupplier['Customer Name']}</p>
+                    <p><strong>Recommended Due Date Extension:</strong> ${selectedSupplier['suggested_due_date_extension']} days</p>
+                `;
+            } else {
+                resultDiv.innerHTML = `<p>No data found for the selected supplier.</p>`;
+            }
+        });
+    </script>
+</body>
+</html>

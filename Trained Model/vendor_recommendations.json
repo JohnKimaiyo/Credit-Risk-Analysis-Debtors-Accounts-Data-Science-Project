@@ -1,0 +1,610 @@
+[
+    {
+      "Customer  Name": "Abbott, Dibbert and Prohaska",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Abshire-Abbott",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Armstrong, Rau and Quigley",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Aufderhar-Gaylord",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Bartoletti, Ledner and Davis",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Bayer, Cartwright and Monahan",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Bechtelar-Hills",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Bernier-Monahan",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Buckridge, Larson and Roob",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Connelly Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Connelly-Quigley",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Corkery-Cormier",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Dickens and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Dickens-Bradtke",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 10,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Dickens-Heidenreich",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Effertz-Jacobson",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Farrell, Connelly and Hammes",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Feeney, Hammes and Brekke",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Feil LLC",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hansen Group",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 7,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hauck and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 4,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hayes-Koepp",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hessel Group",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hessel-Schowalter",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hirthe LLC",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hirthe, Thompson and Crist",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 5,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Hodkiewicz, Romaguera and Smith",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Homenick and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Howe-Cole",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Jacobi-Crist",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 7,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Jaskolski Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Jaskolski, Cronin and Anderson",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Jaskolski, VonRueden and Eichmann",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Keebler Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Kemmer and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Kerluke LLC",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 4,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "King-Wintheiser",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 5,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Legros and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Lehner Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Lehner, Halvorson and Monahan",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Lehner-Harber",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 4,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Littel-Mohr",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Lowe, McLaughlin and Ruecker",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Lubowitz-Weber",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Mayert, Daugherty and Borer",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Monahan, Grimes and Marks",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Nicolas-Friesen",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Okuneva, Lynch and Sipes",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Osinski-Gislason",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Pfeffer LLC",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Pollich Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Price, Stroman and Luettgen",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Rau Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Romaguera Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Schmitt-Harvey",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 4,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Schulist-Kris",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Simonis, Yost and Runolfsdottir",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Stark, Kovacek and Tromp",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Stehr Inc",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Stiedemann-Dickens",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Streich, Mueller and McClure",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 3,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Terry-Goodwin",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Thiel, Jerde and Schneider",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Thompson and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Tillman-Blanda",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Ullrich-King",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Vandervort, Huel and Wunsch",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Walter, Boyer and Cartwright",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 4,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Ward, Cormier and Bernhard",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Weissnat, Rohan and Heidenreich",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Williamson, Harvey and Lubowitz",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 5,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Willms-Brekke",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Witting and Sons",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 5,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Wolf, Becker and Brekke",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Wyman Group",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 1,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    },
+    {
+      "Customer  Name": "Zemlak-Anderson",
+      "total_amount": 0.0,
+      "average_delay": 30.0,
+      "count_invoices": 2,
+      "cluster": 0,
+      "suggested_due_date_extension": 40.0
+    }
+  ]
